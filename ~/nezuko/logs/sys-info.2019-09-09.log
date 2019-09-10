@@ -1,0 +1,14 @@
+22:58:39.104 [restartedMain] INFO  l.n.NezukoApplication - [logStarting,50] - Starting NezukoApplication on lunaticf-Macbook with PID 95682 (/Users/lunaticf/Desktop/Java/nezuko/target/classes started by lunaticf in /Users/lunaticf/Desktop/Java/nezuko)
+22:58:39.120 [restartedMain] INFO  l.n.NezukoApplication - [logStartupProfileInfo,651] - The following profiles are active: dev
+22:58:40.997 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-80"]
+22:58:41.016 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:58:41.017 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.22]
+22:58:41.196 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:58:41.676 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+22:58:41.934 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+22:58:42.304 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-80"]
+22:58:42.346 [restartedMain] INFO  l.n.NezukoApplication - [logStarted,59] - Started NezukoApplication in 4.137 seconds (JVM running for 5.552)
+22:59:05.508 [http-nio-80-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:59:31.130 [http-nio-80-exec-5] INFO  l.n.c.HelloController - [hello,14] - hello
+22:59:38.113 [Thread-18] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-1} closing ...
+22:59:38.115 [Thread-18] INFO  c.a.d.p.DruidDataSource - [close,2020] - {dataSource-1} closed
